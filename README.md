@@ -2,7 +2,7 @@
 
  ⚡ "A Saxophone and Guitar amateur player, a Gamer and a Back-ender"
 
-		- 🔭 I’m currently working on:      Ame Digital as a Java back-end developer,
+		- 🔭 I’m currently working on:      Itau Unibanco SA (Iti) as a Pl. Software Engineer,
     
 		- 🌱 I’m currently learning:        Software Design & Architecture, Kotlin, AWS Devops,
     
