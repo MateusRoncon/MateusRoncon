@@ -23,7 +23,7 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MateusRoncon&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="AnhellO :: Profile Stats" /></p>
 
 ## Contact me here:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/mateus-p-2ab874121/)
 
 ![snake gif](https://github.com/MateusRoncon/MateusRoncon/blob/output/github-contribution-grid-snake.gif)
 
