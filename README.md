@@ -2,15 +2,16 @@
 
  ⚡ "A Saxophone and Guitar amateur player, a Gamer and a Back-ender"
 
-		- 🔭 I’m currently working on:      Itau Unibanco SA (Iti) as a Pl. Software Engineer,
+		- 🔭 I’m currently working on:      Itau Unibanco SA, on a CCaaS product as Software Engineer,
     
-		- 🌱 I’m currently learning:        Software Design & Architecture, Kotlin, AWS Devops,
+		- 🌱 I’m currently learning:        Software Design & Architecture, Golang, AWS Devops, Fullcycle 
     
 		- 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,
     
 		- 💬 Ask me about:                  Anything, I love helping and learning together
 
 ## Stack
+![Golang](https://img.shields.io/badge/Golang-%230095D5.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
